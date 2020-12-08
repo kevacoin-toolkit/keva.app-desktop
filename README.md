@@ -10,7 +10,7 @@ You can use kevaapp.exe with kevacoin client to open shortcodes.
 
 # any devices in local area
 
-Youc can also use ip on any devices to open shortcodes.
+You can also use ip on any devices to open shortcodes.
 
 # server or vps
 
