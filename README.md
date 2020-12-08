@@ -4,6 +4,10 @@ Now you can run keva.app on any devices anywhere anytime.
 
 run start.bat, it will start kevacoin, kevaapp.exe and a php server.
 
+demo 62108412
+
+https://keva.app
+
 # pc
 
 You can use kevaapp.exe with kevacoin client to open shortcodes.
