@@ -1,6 +1,6 @@
 # keva.app-desktop
 
-Now you can run keva.app on pc/mobilephone in local area.
+Now you can run keva.app on any devices anywhere anytime.
 
 run start.bat, it will start kevacoin, kevaapp.exe and a php server.
 
